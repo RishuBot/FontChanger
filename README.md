@@ -32,3 +32,8 @@ Built for speed • Deployed on Cloudflare Workers
 
 ---
 
+##Add Webhook 
+
+
+```https://api.telegram.org/botBOT_TOKEN/setWebhook?url=WORKER_URL
+```
